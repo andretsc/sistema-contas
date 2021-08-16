@@ -1,0 +1,1111 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"listar-",
+				"listar-contas-a-pagar"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"inlni",
+				"inline-block"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"descr",
+				"description"
+			],
+			[
+				"descri",
+				"description"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"categ",
+				"categoriaContaAPagar"
+			],
+			[
+				"categoria",
+				"categoriaContaAPagar"
+			],
+			[
+				"alert",
+				"alert-success"
+			],
+			[
+				"conte",
+				"main-content"
+			],
+			[
+				"arra",
+				"arrayKey"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"paddin-",
+				"padding-bottom"
+			],
+			[
+				"sub",
+				"subcategoriaOption2"
+			],
+			[
+				"su",
+				"subcategoriaOption"
+			],
+			[
+				"categoi",
+				"categoriaSelecionada"
+			],
+			[
+				"main-b",
+				"main-banner-text"
+			],
+			[
+				"con",
+				"company-brand"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"boot",
+				"bootstrapcdn"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"defa",
+				"date_default_timezone_set()"
+			],
+			[
+				"transla",
+				"translateY()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "listar-contas-a-pagar.php",
+			"settings":
+			{
+				"buffer_size": 2384,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "("
+					},
+					"AQAAACgDAAAAAAAAKQMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACgDAAAAAAAAKAMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": ")"
+					},
+					"AQAAAF4DAAAAAAAAXwMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAF4DAAAAAAAAXgMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAF4DAAAAAAAAXwMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAF4DAAAAAAAAXgMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "&&"
+					},
+					"AgAAAF8DAAAAAAAAYAMAAAAAAAAAAAAAYAMAAAAAAABhAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAF8DAAAAAAAAXwMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": " $conta"
+					},
+					"BwAAAGEDAAAAAAAAYgMAAAAAAAAAAAAAYgMAAAAAAABjAwAAAAAAAAAAAABjAwAAAAAAAGQDAAAAAAAAAAAAAGQDAAAAAAAAZQMAAAAAAAAAAAAAZQMAAAAAAABmAwAAAAAAAAAAAABmAwAAAAAAAGcDAAAAAAAAAAAAAGcDAAAAAAAAaAMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGEDAAAAAAAAYQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					14,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAGgDAAAAAAAAagMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGgDAAAAAAAAaAMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					15,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAGkDAAAAAAAAawMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGkDAAAAAAAAaQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "status"
+					},
+					"BgAAAGoDAAAAAAAAawMAAAAAAAAAAAAAawMAAAAAAABsAwAAAAAAAAAAAABsAwAAAAAAAG0DAAAAAAAAAAAAAG0DAAAAAAAAbgMAAAAAAAAAAAAAbgMAAAAAAABvAwAAAAAAAAAAAABvAwAAAAAAAHADAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGoDAAAAAAAAagMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": " =="
+					},
+					"AwAAAHIDAAAAAAAAcwMAAAAAAAAAAAAAcwMAAAAAAAB0AwAAAAAAAAAAAAB0AwAAAAAAAHUDAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHIDAAAAAAAAcgMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAHUDAAAAAAAAdgMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHUDAAAAAAAAdQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAHYDAAAAAAAAdwMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHYDAAAAAAAAdgMAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "listar-contas-a-receber.php",
+			"settings":
+			{
+				"buffer_size": 3156,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AgAAAMkHAAAAAAAAVQgAAAAAAAAAAAAAVQgAAAAAAABVCAAAAAAAAFsAAAA8YSBjbGFzcz0iYnRuIGJ0bi1pbmZvIiBocmVmPSIjIiBkYXRhLXRvZ2dsZT0ibW9kYWwiIGRhdGEtdGFyZ2V0PSIjZXhhbXBsZU1vZGFsIj5TdGF0dXM8L2E+",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMkHAAAAAAAAJAgAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					10,
+					1,
+					"paste",
+					null,
+					"AgAAACkDAAAAAAAAnwMAAAAAAAAAAAAAnwMAAAAAAACfAwAAAAAAAFsAAAA8Pz0gIChzdHJ0b3RpbWUoZGF0ZSgnWS1tLWQnKSkgPiBzdHJ0b3RpbWUoJGNvbnRhWydkYXRhJ10pKSA/ICdjbGFzcz0idGFibGUtZGFuZ2VyIic6ICcnID8+",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACkDAAAAAAAAhAMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAAH4DAAAAAAAAfwMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAH4DAAAAAAAAfgMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					15,
+					1,
+					"left_delete",
+					null,
+					"AQAAAH0DAAAAAAAAfQMAAAAAAAABAAAAMg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAH4DAAAAAAAAfgMAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "classes/Conta.php",
+			"settings":
+			{
+				"buffer_size": 3025,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " m"
+					},
+					"AgAAAH4CAAAAAAAAfwIAAAAAAAAAAAAAfwIAAAAAAACAAgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAH4CAAAAAAAAfgIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					7,
+					2,
+					"left_delete",
+					null,
+					"AgAAAH8CAAAAAAAAfwIAAAAAAAABAAAAbX4CAAAAAAAAfgIAAAAAAAABAAAAIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIACAAAAAAAAgAIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAH4CAAAAAAAAfwIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAH4CAAAAAAAAfgIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " status"
+					},
+					"BwAAAH8CAAAAAAAAgAIAAAAAAAAAAAAAgAIAAAAAAACBAgAAAAAAAAAAAACBAgAAAAAAAIICAAAAAAAAAAAAAIICAAAAAAAAgwIAAAAAAAAAAAAAgwIAAAAAAACEAgAAAAAAAAAAAACEAgAAAAAAAIUCAAAAAAAAAAAAAIUCAAAAAAAAhgIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAH8CAAAAAAAAfwIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAALwCAAAAAAAAvQIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALwCAAAAAAAAvAIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": " :status"
+					},
+					"CAAAAL0CAAAAAAAAvgIAAAAAAAAAAAAAvgIAAAAAAAC/AgAAAAAAAAAAAAC/AgAAAAAAAMACAAAAAAAAAAAAAMACAAAAAAAAwQIAAAAAAAAAAAAAwQIAAAAAAADCAgAAAAAAAAAAAADCAgAAAAAAAMMCAAAAAAAAAAAAAMMCAAAAAAAAxAIAAAAAAAAAAAAAxAIAAAAAAADFAgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAL0CAAAAAAAAvQIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					21,
+					1,
+					"reindent",
+					null,
+					"AQAAAJQDAAAAAAAAlgMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJQDAAAAAAAAlAMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BgAAAJYDAAAAAAAAlwMAAAAAAAAAAAAAlwMAAAAAAACZAwAAAAAAAAAAAACUAwAAAAAAAJQDAAAAAAAAAgAAAAkJlwMAAAAAAACYAwAAAAAAAAAAAACYAwAAAAAAAJoDAAAAAAAAAAAAAJUDAAAAAAAAlQMAAAAAAAACAAAACQk",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJYDAAAAAAAAlgMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					24,
+					1,
+					"reindent",
+					null,
+					"AQAAAJUDAAAAAAAAlwMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJUDAAAAAAAAlQMAAAAAAAAAAAAAAIBQQA"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "if"
+					},
+					"AwAAAJcDAAAAAAAAmAMAAAAAAAAAAAAAmQMAAAAAAACZAwAAAAAAAAIAAAAJCZgDAAAAAAAAmQMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJcDAAAAAAAAlwMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJkDAAAAAAAAmgMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJkDAAAAAAAAmQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					27,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAJoDAAAAAAAAnAMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJoDAAAAAAAAmgMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "$tipoCo"
+					},
+					"BwAAAJsDAAAAAAAAnAMAAAAAAAAAAAAAnAMAAAAAAACdAwAAAAAAAAAAAACdAwAAAAAAAJ4DAAAAAAAAAAAAAJ4DAAAAAAAAnwMAAAAAAAAAAAAAnwMAAAAAAACgAwAAAAAAAAAAAACgAwAAAAAAAKEDAAAAAAAAAAAAAKEDAAAAAAAAogMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJsDAAAAAAAAmwMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					29,
+					1,
+					"insert_completion",
+					{
+						"completion": "tipoConta",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "tipoConta"
+					},
+					"AgAAAJwDAAAAAAAAnAMAAAAAAAAGAAAAdGlwb0NvnAMAAAAAAAClAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKIDAAAAAAAAogMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": " =="
+					},
+					"AwAAAKUDAAAAAAAApgMAAAAAAAAAAAAApgMAAAAAAACnAwAAAAAAAAAAAACnAwAAAAAAAKgDAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKUDAAAAAAAApQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": " 1"
+					},
+					"AgAAAKgDAAAAAAAAqQMAAAAAAAAAAAAAqQMAAAAAAACqAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKgDAAAAAAAAqAMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKsDAAAAAAAArAMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKsDAAAAAAAAqwMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					34,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAKwDAAAAAAAArgMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKwDAAAAAAAArAMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					35,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAK0DAAAAAAAArgMAAAAAAAAAAAAArgMAAAAAAACwAwAAAAAAAAAAAACwAwAAAAAAALEDAAAAAAAAAAAAALEDAAAAAAAAswMAAAAAAAAAAAAArgMAAAAAAACuAwAAAAAAAAIAAAAJCa4DAAAAAAAAsQMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAK0DAAAAAAAArQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					41,
+					1,
+					"paste",
+					null,
+					"AQAAALEDAAAAAAAA0wMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALEDAAAAAAAAsQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "status"
+					},
+					"BwAAAMMDAAAAAAAAxAMAAAAAAAAAAAAAxAMAAAAAAADEAwAAAAAAAAUAAAB2YWxvcsQDAAAAAAAAxQMAAAAAAAAAAAAAxQMAAAAAAADGAwAAAAAAAAAAAADGAwAAAAAAAMcDAAAAAAAAAAAAAMcDAAAAAAAAyAMAAAAAAAAAAAAAyAMAAAAAAADJAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMgDAAAAAAAAwwMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AgAAAMwDAAAAAAAAzQMAAAAAAAAAAAAAzQMAAAAAAADNAwAAAAAAAAYAAAAkdmFsb3I",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMwDAAAAAAAA0gMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": " else"
+					},
+					"BQAAANMDAAAAAAAA1AMAAAAAAAAAAAAA1AMAAAAAAADVAwAAAAAAAAAAAADVAwAAAAAAANYDAAAAAAAAAAAAANYDAAAAAAAA1wMAAAAAAAAAAAAA1wMAAAAAAADYAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANMDAAAAAAAA0wMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAANgDAAAAAAAA2QMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANgDAAAAAAAA2AMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					61,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAANkDAAAAAAAA2wMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANkDAAAAAAAA2QMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					62,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAANoDAAAAAAAA2wMAAAAAAAAAAAAA2wMAAAAAAADdAwAAAAAAAAAAAADdAwAAAAAAAN4DAAAAAAAAAAAAAN4DAAAAAAAA4AMAAAAAAAAAAAAA2wMAAAAAAADbAwAAAAAAAAIAAAAJCdsDAAAAAAAA3gMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANoDAAAAAAAA2gMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					69,
+					1,
+					"insert",
+					{
+						"characters": " if"
+					},
+					"BAAAANgDAAAAAAAA2QMAAAAAAAAAAAAA3AMAAAAAAADcAwAAAAAAAAMAAAAJCQnZAwAAAAAAANoDAAAAAAAAAAAAANoDAAAAAAAA2wMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANgDAAAAAAAA2AMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAANsDAAAAAAAA3AMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANsDAAAAAAAA2wMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					71,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAANwDAAAAAAAA3gMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANwDAAAAAAAA3AMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "$tipoCo"
+					},
+					"BwAAAN0DAAAAAAAA3gMAAAAAAAAAAAAA3gMAAAAAAADfAwAAAAAAAAAAAADfAwAAAAAAAOADAAAAAAAAAAAAAOADAAAAAAAA4QMAAAAAAAAAAAAA4QMAAAAAAADiAwAAAAAAAAAAAADiAwAAAAAAAOMDAAAAAAAAAAAAAOMDAAAAAAAA5AMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAN0DAAAAAAAA3QMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					73,
+					1,
+					"insert_completion",
+					{
+						"completion": "tipoConta",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "tipoConta"
+					},
+					"AgAAAN4DAAAAAAAA3gMAAAAAAAAGAAAAdGlwb0Nv3gMAAAAAAADnAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOQDAAAAAAAA5AMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": " =="
+					},
+					"AwAAAOcDAAAAAAAA6AMAAAAAAAAAAAAA6AMAAAAAAADpAwAAAAAAAAAAAADpAwAAAAAAAOoDAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOcDAAAAAAAA5wMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": " 2"
+					},
+					"AgAAAOoDAAAAAAAA6wMAAAAAAAAAAAAA6wMAAAAAAADsAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOoDAAAAAAAA6gMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					81,
+					1,
+					"reindent",
+					null,
+					"AQAAAPADAAAAAAAA8wMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPADAAAAAAAA8AMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					82,
+					1,
+					"paste",
+					null,
+					"AQAAAPMDAAAAAAAAEQQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPMDAAAAAAAA8wMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AgAAAA4EAAAAAAAADwQAAAAAAAAAAAAADwQAAAAAAAAPBAAAAAAAAAEAAAAy",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA4EAAAAAAAADwQAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "/C/xampp/htdocs/Projeto_01/config.php",
+			"settings":
+			{
+				"buffer_size": 481,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/contas2",
+		"/C/xampp/htdocs/contas2/classes",
+		"/C/xampp/htdocs/contas2/pages"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/devweb-dankicode/config.php",
+		"/C/xampp/htdocs/contas2/editar-status.php",
+		"/C/xampp/htdocs/contas2/listar-contas-a-pagar.php",
+		"/C/xampp/htdocs/contas2/classes/Status.php",
+		"/C/xampp/htdocs/contas2/login.php",
+		"/C/xampp/htdocs/contas2/classes/Conta.php",
+		"/C/xampp/htdocs/contas2/classes/Categoria.php",
+		"/C/xampp/htdocs/contas2/listar-contas-a-receber.php",
+		"/C/xampp/htdocs/contas2/excluir-contas.php",
+		"/C/xampp/htdocs/contas2/editar-contas.php",
+		"/C/xampp/htdocs/contas2/editar-categorias.php",
+		"/C/xampp/htdocs/contas2/excluir-categorias.php",
+		"/C/xampp/htdocs/contas2/pages/header.php",
+		"/C/xampp/htdocs/contas2/listar-categorias.php",
+		"/C/xampp/htdocs/contas2/adicionar-contas-a-pagar.php",
+		"/C/xampp/htdocs/contas2/adicionar-contas-a-receber.php",
+		"/C/xampp/htdocs/tabela/index.php",
+		"/C/xampp/htdocs/tabela/listar_usuario.php",
+		"/C/xampp/htdocs/clinica/index.html",
+		"/C/xampp/htdocs/clinica/css/style.css",
+		"/C/php/php.ini",
+		"/C/xampp/htdocs/tabela/conexao.php",
+		"/C/xampp/htdocs/tabela/gerar_usuarios_bd.php",
+		"/C/xampp/htdocs/contas/Classes/Conta.php",
+		"/C/xampp/htdocs/contas/Classes/DAO/Interfaces/AccountDAOInterface.php",
+		"/C/xampp/htdocs/contas/Classes/Model/Account.php",
+		"/C/xampp/htdocs/contas/Classes/Model/AccountType.php",
+		"/C/xampp/htdocs/contas/Classes/Model/Category.php",
+		"/C/xampp/htdocs/contas/Classes/Model/User.php",
+		"/C/xampp/htdocs/contas/teste-classes.php",
+		"/C/xampp/htdocs/contas/adicionar-categorias.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/contas/adicionar-contas-a-pagar.php",
+		"/C/xampp/htdocs/contas/listar-contas-a-pagar.php",
+		"/C/xampp/htdocs/contas/adicionar-contas-a-receber.php",
+		"/C/xampp/htdocs/contas/editar-contas.php",
+		"/C/xampp/htdocs/contas/excluir-contas.php",
+		"/C/xampp/htdocs/contas/index.php",
+		"/C/xampp/htdocs/contas/listar-categorias.php",
+		"/C/xampp/htdocs/contas/listar-contas-a-receber.php",
+		"/C/xampp/htdocs/contas/login.php",
+		"/C/xampp/htdocs/contas/sair.php",
+		"/C/xampp/htdocs/contas/Classes/DAO/Interfaces/UserDAOInterface.php",
+		"/C/xampp/htdocs/contas/composer.json",
+		"/C/php74/php.ini",
+		"/C/xampp/htdocs/contas/Classes/DAO/Interfaces/UserDAO.php",
+		"/C/xampp/htdocs/contas/.gitignore",
+		"/C/xampp/htdocs/contas/monolog-test.php",
+		"/C/xampp/htdocs/contas/autoload.php",
+		"/C/xampp/htdocs/contas/classes/Conta.php",
+		"/C/xampp/htdocs/contas/classes/Categoria.php",
+		"/C/xampp/htdocs/contas/config.php",
+		"/C/xampp/htdocs/contas/pages/header.php",
+		"/C/xampp/htdocs/contas/classes/Usuario.php",
+		"/C/xampp/htdocs/contas/cadastros/contas-a-receber.php",
+		"/C/xampp/htdocs/landingpage/index.html",
+		"/C/xampp/htdocs/landingpage/style.css",
+		"/C/xampp/htdocs/lightbox/index.html",
+		"/C/xampp/htdocs/contas/page_parts/footer.php",
+		"/C/xampp/htdocs/contas/cadastros/categorias.php",
+		"/C/xampp/htdocs/contas/cadastros/contas-a-pagar.php",
+		"/C/xampp/htdocs/contas/page_parts/header.php",
+		"/C/xampp/htdocs/lightbox/scripts.js",
+		"/C/xampp/htdocs/lightbox/style.css",
+		"/C/xampp/htdocs/contas/listagem/contas-a-receber.php",
+		"/C/xampp/htdocs/contas/cadastros/cadastros/contas-a-pagar.php",
+		"/C/Users/gusta/Downloads/CodigoFonteWebinarPayPal/paypal/AuxiliarTools.php",
+		"/C/Users/gusta/Downloads/CodigoFonteWebinarPayPal/paypal/DatabaseTools.php",
+		"/C/Users/gusta/Downloads/CodigoFonteWebinarPayPal/AuxiliarTools.php",
+		"/C/xampp/htdocs/Projeto02/css/estilo.css",
+		"/C/xampp/htdocs/docker101/IntroComands/principais_comandos.sh",
+		"/C/Users/gusta/Documents/arquivo.php",
+		"/C/xampp/htdocs/dankicode/python/modulo_6_colecoes_listas/03_slicing.py",
+		"/C/xampp/htdocs/dankicode/python/modulo_6_colecoes_listas/02_listas.py",
+		"/C/xampp/htdocs/Projeto02/index.html",
+		"/C/Users/gusta/Desktop/teste/index.html",
+		"/C/xampp/htdocs/gustavoalvesdev.github.io/index.html",
+		"/C/xampp/htdocs/estoque-procedural/index.php",
+		"/C/xampp/htdocs/estoque-procedural/home.php",
+		"/C/xampp/htdocs/estoque-procedural/cadastro-clientes.php",
+		"/C/xampp/htdocs/estoque-procedural/listar-clientes.php",
+		"/C/Users/gusta/Downloads/TEMPLATES ELEMENTOR-20210727T173553Z-001/TEMPLATES ELEMENTOR/01-AGÊNCIA DE SITES/Sites (2).json",
+		"/C/Users/gusta/Downloads/TEMPLATES ELEMENTOR-20210727T173553Z-001/TEMPLATES ELEMENTOR/01-AGÊNCIA DE SITES/Sites (1).json",
+		"/C/xampp/htdocs/psc/index.php",
+		"/C/xampp/htdocs/psc/topo.php",
+		"/C/xampp/htdocs/psc/estilos.css",
+		"/C/xampp/htdocs/gs7-estatico/index.html",
+		"/C/xampp/htdocs/gs7-estatico/contato.html",
+		"/C/xampp/htdocs/gs7-estatico/sobre.html",
+		"/C/xampp/htdocs/gs7-estatico/assets/js/menu.js",
+		"/C/Users/gusta/Documents/NetBeansProjects/SISTEM_VENDAS/.gitignore",
+		"/C/Users/gusta/Downloads/portal_noticias_estatico_nodejs_01/portal_noticias_estatico_nodejs_01/pages/home.html",
+		"/C/xampp/htdocs/gs7wp/wp-content/themes/gs7/index.php",
+		"/C/xampp/htdocs/landingpage/assets/css/style.css",
+		"/C/xampp/htdocs/b7web/laravel/modulo7/api-rede-social/.env",
+		"/C/Users/gusta/Downloads/Script+Banco+BDVendas/Script Banco BDVendas.sql",
+		"/C/Users/gusta/Downloads/onepage/criacao-de-sites.png",
+		"/C/xampp/htdocs/gs7wp/wp-content/themes/gs7/header.php",
+		"/C/xampp/htdocs/gs7wp/wp-content/themes/gs7/page-sobre.php",
+		"/C/xampp/htdocs/gs7wp/wp-content/themes/gs7/page-contato.php",
+		"/C/xampp/htdocs/gs7wp/wp-content/themes/gs7/footer.php",
+		"/C/xampp/htdocs/template-beemind/index.html",
+		"/C/xampp/htdocs/gs7wp/wp-content/themes/gs7/style.css",
+		"/C/xampp/htdocs/crud-materialize/banco_de_dados/create.php",
+		"/C/xampp/htdocs/crud-materialize/banco_de_dados/conexao.php",
+		"/C/xampp/htdocs/crud-materialize/index.php",
+		"/C/xampp/htdocs/crud-materialize/banco_de_dados/update.php",
+		"/C/xampp/htdocs/crud-materialize/banco_de_dados/delete.php",
+		"/C/xampp/htdocs/crud-materialize/banco_de_dados/read.php",
+		"/C/xampp/htdocs/template-beemind/sobre.html",
+		"/C/xampp/htdocs/template-beemind/assets/css/style.css",
+		"/C/xampp/htdocs/template-beemind/assets/js/scripts.js",
+		"/C/xampp/htdocs/sites/gs7digital/index.php",
+		"/C/xampp/htdocs/sites/gs7digital/assets/css/style.css",
+		"/C/xampp/htdocs/agencia/index.html",
+		"/C/xampp/htdocs/gustavoalvesdev.github.io/projetos/cartaz/script.js",
+		"/C/xampp/htdocs/cartaz/js/script.js",
+		"/C/xampp/htdocs/cartaz/index.html",
+		"/C/xampp/htdocs/bootstrap4/basic-template/index.html",
+		"/C/xampp/htdocs/bootstrap4/first-page/index.html",
+		"/C/xampp/htdocs/construtora/index.html",
+		"/C/xampp/htdocs/construtora/css/style.css",
+		"/C/Users/gusta/Downloads/projeto_02_express/Projeto_02/index.html",
+		"/C/Users/gusta/Downloads/projeto_dev_web/Projeto_01/index.php",
+		"/C/Users/gusta/Downloads/projeto_dev_web/Projeto_01/config.php",
+		"/C/xampp/htdocs/conta-azul-completo/index.php",
+		"/C/Users/gusta/Downloads/projeto_02_express/Projeto_02/css/estilo.css",
+		"/C/Users/gusta/Downloads/projeto_multilinguagem/Language.class.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"foreach",
+			"descricao",
+			"gd",
+			"mbstring",
+			"mages/round",
+			"[XDebug]",
+			"debug",
+			"XDEBUG",
+			";/');",
+			"1",
+			"image-",
+			"image",
+			"Image",
+			"image",
+			"Image",
+			"image",
+			".jpg",
+			"otkenPayPal",
+			"extension=",
+			"intl",
+			"php_intl",
+			";extension=php_intl",
+			";extension=php_intl.dll",
+			"flex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"nome",
+			"images/round",
+			"tokenPayPal"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "listar-contas-a-pagar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								802,
+								920
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "listar-contas-a-receber.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1445,
+								1445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 702.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "classes/Conta.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1041,
+								1041
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/Projeto_01/config.php",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "contas2.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
